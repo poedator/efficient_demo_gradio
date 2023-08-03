@@ -5,3 +5,4 @@ demo of [Gradio](https://gradio.app/) framework for [Efficient DL class] (https:
 
 # how to use:
 main file: [gradio_demo.ipynb](https://github.com/poedator/efficient_demo_gradio/blob/master/gradio_demo.ipynb)
+
